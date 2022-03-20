@@ -32,7 +32,7 @@ const Resume = () => {
 
         <ResumeContainer>
           <h3>My Resume</h3>
-          <IconWrapper href='./download/cv.pdf' target='_blank'>
+          <IconWrapper href='https://resume.io/r/ekTr4YTrJ' target='_blank'>
             <FaBookOpen size='5rem' color='#dc143c' />
           </IconWrapper>
         </ResumeContainer>
