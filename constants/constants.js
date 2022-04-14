@@ -52,6 +52,16 @@ export const projects = [
     id: 3,
   },
   {
+    title: 'SpaceX Launches',
+    description:
+      'This is a task that I had to complete as a part of a coding interview. The main goal was to implement the infinite scroll functionality. ',
+    image: '/images/projects/8.png',
+    tags: ['React', 'GraphQL'],
+    source: 'https://github.com/jCabala/spaceX-infiniteScroll',
+    visit: 'https://jcabala-infinite-scroll.netlify.app/',
+    id: 8,
+  },
+  {
     title: 'BBK Polska',
     description:
       'A website that I created for a civil engineering company. They needed a modern looking website, as their previous one was created almost 20 years ago.',
